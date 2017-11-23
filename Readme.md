@@ -31,7 +31,7 @@ Contributors wishing to edit a module's files should follow the following proces
 
 That's it: you have contributed to this open-source project! Congratulations!
 
-[1]: http://doc.prestashop.com/display/PS16/Coding+Standards
-[2]: http://doc.prestashop.com/display/PS16/How+to+write+a+commit+message
-[3]: https://help.github.com/articles/using-pull-requests
+## Roadmap
+
+[View](https://github.com/thirtybees/statsbestcategories/blob/master/Roadmap.md)
 
